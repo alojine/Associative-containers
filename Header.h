@@ -1,0 +1,20 @@
+#pragma once
+
+#include <iostream>
+#include <fstream>
+#include <map>
+#include <set>
+#include <iterator>
+#include <string>
+#include <sstream>
+#include <regex>
+#include <algorithm>
+#include <cctype>
+#include <vector>
+#include <iterator>
+#include <unordered_map>
+#include <locale>
+#include <stdio.h>
+#include <ctype.h>
+#include <iomanip>
+#include <cctype>
